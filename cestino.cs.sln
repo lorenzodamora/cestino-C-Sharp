@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cestino0", "cestino0\cestin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cestino1 my try parse int32", "cestino1 my try parse int32\cestino1 my try parse int32.csproj", "{5C137B1F-DBBD-4B8B-950A-01C765C2D366}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cestino2 roba", "cestino2 roba\cestino2 roba.csproj", "{1049C602-5734-424C-9BA8-862E6F5DB49E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5C137B1F-DBBD-4B8B-950A-01C765C2D366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C137B1F-DBBD-4B8B-950A-01C765C2D366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C137B1F-DBBD-4B8B-950A-01C765C2D366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1049C602-5734-424C-9BA8-862E6F5DB49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1049C602-5734-424C-9BA8-862E6F5DB49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1049C602-5734-424C-9BA8-862E6F5DB49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1049C602-5734-424C-9BA8-862E6F5DB49E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

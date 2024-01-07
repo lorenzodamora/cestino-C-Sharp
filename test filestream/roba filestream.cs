@@ -1,11 +1,10 @@
 ﻿using System;
-using System.Dynamic;
 using System.IO;
 using System.Text;
 
 namespace test_filestream
 {
-	internal class Program
+	internal class Roba_Filestream
 	{
 		static void Main()
 		{
@@ -45,6 +44,7 @@ namespace test_filestream
 				//error[6] = 6;
 			}
 		}
+
 		static void Test2()
 		{
 			string path = Path.GetFullPath("..\\..\\filestream\\fs2.txt");
